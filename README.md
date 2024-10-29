@@ -17,6 +17,21 @@ What are Github Actions? Provide an example of a .yml file that you used in your
 What technology stack did you use to develop this website? Why did you choose this stack?
     I used only HTML as that's all I needed. Everything was formatted just as I wanted with only this lanuage.
 
+## Video Questions
+In 3-4 sentences, explain what pull requests (PRs) are and their purpose.
+    Pull requests are used to merge two branches that may have conflicting code. By using pull requests, programmers can easily see what has been changed, why (via comments), and what conflicts between the two merging branches.
+Describe what the green and red colours indicate when viewing Files changed on a pull request.
+    The "+34" in green indicates that 34 new lines of code were added. The "-42" in red indicates 42 lines of code were deleted.
+Suppose you have the following branches on github (develop, test and production) and you are currently on the develop branch.
+    In your own words, describe what following git command does (git merge test):
+        Git will attempt to merge changes from test into develop.
+    Explain why this message has appeared and what it means.
+        The message means there are conflicts between the current branch and test at the time of attempting to merge. Lines 2 and 3 conflict with line 5.
+    Identify which line(s) of code belong to which branch (develop and test)
+        Lines 2 & 3 belong to the current branch (develop) while line 5 belongs to the branch attempting to merge into current (test)
+
+
+
 [Project Repo Link](https://github.com/Carbonate1/Brandon-Chattha.github.io.git)
 
 [Project Website Link](https://carbonate1.github.io/Brandon-Chattha.github.io/)
