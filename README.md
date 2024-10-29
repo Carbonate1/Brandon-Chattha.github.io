@@ -7,5 +7,3 @@ Honestly it was the one that was recommended, it seems simple enough, and the li
 [Project Repo Link](https://github.com/CMPT-276-FALL-2024/cmpt-276-fall-2024-lab-4-CMPT-276-L4)
 
 [Project Website Link](https://carbonate1.github.io/Brandon-Chattha.github.io/)
-
-[AI Declaration Form](Images/L4_AI_Declaration_Brandon_Chattha_301579323.pdf)
