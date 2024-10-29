@@ -35,3 +35,5 @@ Suppose you have the following branches on github (develop, test and production)
 [Project Repo Link](https://github.com/Carbonate1/Brandon-Chattha.github.io.git)
 
 [Project Website Link](https://carbonate1.github.io/Brandon-Chattha.github.io/)
+
+[AI Declaration Form](Images/L4_AI_Declaration_Brandon_Chattha_301579323.pdf)
