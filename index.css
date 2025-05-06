@@ -1,14 +1,13 @@
 body {
     background-color: lightblue; 
     color: darkblue;
-    font-family: 'Times New Roman', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
-/* .headshot {
+.headshot {
     width: 300px;          
     height: auto;          
     position: relative;   
     left: 50px;          
     top: 20px;          
-} */
-  
+}
